@@ -1,0 +1,1 @@
+print("*** Strings are chacters grouped together *****")
