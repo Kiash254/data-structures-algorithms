@@ -1,6 +1,6 @@
-print("*** Strings are chacters grouped together *****")
+#fuctorial work using python
 
-#factorial in python
+
 def factorial(n):
     if n==0:
         return 1
